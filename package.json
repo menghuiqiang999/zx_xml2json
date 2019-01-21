@@ -1,0 +1,23 @@
+{
+  "name": "zx_xml2json",
+  "version": "1.0.0",
+  "description": "turn text from xml format to json format",
+  "main": "xml2json.js",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "zx",
+  "license": "MIT",
+  "keywords": [
+    "zx",
+    "zx_xml2json",
+    "zx_xml",
+    "zx_json",
+    "zx_js",
+    "zx_xml2jx"
+  ]
+}
